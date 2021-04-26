@@ -72,10 +72,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # push to github
-git init
-git status
-git add.
-git commit -m "this is the first project"
-git branch -M main
-git remote add origin https://github.com/Lisa304/1092_data_struct2.git
-git push -u origin main 
+- git init
+- git status
+- git add.
+- git commit -m "this is the first project"
+- git branch -M main
+- git remote add origin https://github.com/Lisa304/1092_data_struct2.git
+- git push -u origin main 
