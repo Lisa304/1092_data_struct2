@@ -74,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # push to github
 - git init
 - git status
-- git add.
+- git add .
 - git commit -m "this is the first project"
 - git branch -M main
 - git remote add origin https://github.com/Lisa304/1092_data_struct2.git
