@@ -33,14 +33,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-# push to github
-git init
-git status
-git add.
-git commit -m "this is the first project"
-git branch -M main
-git remote add origin https://github.com/Lisa304/1092_data_struct2.git
-git push -u origin main 
+
+
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
@@ -78,3 +72,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # push to github
+git init
+git status
+git add.
+git commit -m "this is the first project"
+git branch -M main
+git remote add origin https://github.com/Lisa304/1092_data_struct2.git
+git push -u origin main 
